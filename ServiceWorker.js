@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My Dino-1.0";
 const contentToCache = [
-    "Build/DinoTest1.loader.js",
-    "Build/DinoTest1.framework.js.unityweb",
-    "Build/DinoTest1.data.unityweb",
-    "Build/DinoTest1.wasm.unityweb",
+    "Build/DinoTest2.loader.js",
+    "Build/DinoTest2.framework.js.unityweb",
+    "Build/DinoTest2.data.unityweb",
+    "Build/DinoTest2.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
